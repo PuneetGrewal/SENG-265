@@ -1,4 +1,4 @@
-#Grade - 100%
+//Grade - 100%
 
 #include <stdio.h>
 #include <string.h>
