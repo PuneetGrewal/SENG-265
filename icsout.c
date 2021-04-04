@@ -1,3 +1,5 @@
+#Grade - 100%
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -7,7 +9,6 @@
 #define MAX_EVENTS 500
 
 /* Name: Puneet Grewal
-   V Number : V00951156
    Class: SENG 265 A01
    Prof: Mike Zastre
    Assignment: A1 - icsout.c first version
