@@ -1,3 +1,5 @@
+# Grade - 100%
+
 #!/usr/bin/env python3
 
 import sys
@@ -5,7 +7,6 @@ import argparse
 import datetime
 
 # Name: Puneet Grewal
-# V Number: V00951156
 # Class: SENG 265 A01
 # Prof: Mike Zastre
 # Assignment: A2 - second try at iscout
